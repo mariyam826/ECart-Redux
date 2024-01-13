@@ -52,7 +52,7 @@ function Footer() {
 
 
       </div>
-      <p style={{fontSize:'14px'}} className='text-center mt4'>Copyright &copy;2023 Media Player . Build with React.</p>
+      <p style={{fontSize:'14px'}} className='text-center mt4'>Copyright &copy;2023 E-Cart . Built with React.</p>
     </div>
   )
 }
