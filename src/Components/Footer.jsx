@@ -9,7 +9,7 @@ function Footer() {
       <div className="footer-content d-flex justify-content-between">
         <div className="title w-25">
           <h3> <i class="fa-solid fa-truck-fast me-2"></i>
-            Eazy-Cart</h3>
+            E-Cart</h3>
           <span style={{fontSize:'14px'}}>
             Designed and build with all the love in the world by the Bootstrap team with the help of our contributors
 
