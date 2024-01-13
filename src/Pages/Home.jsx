@@ -40,7 +40,7 @@ function Home() {
         <Card className='shadow rounded card ' style={{ width: '18rem' }}>
           <Link to={`/view/${product.id}`}><Card.Img style={{height:'180px'}} variant="top" src={product.thumbnail} /></Link>
           <Card.Body>
-            <Card.Title>{product.title.slice(0,20)}..</Card.Title>
+            <Card.Title>{product.title.slice(0,20)}</Card.Title>
            <Card.Text>
             <h6>{`${product.price}₹`}</h6>
            </Card.Text>
